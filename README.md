@@ -1,3 +1,3 @@
 Project Recipes
 
-This project consiss of creating a list of recipes using HTML
+This project consists of creating a list of recipes using HTML
