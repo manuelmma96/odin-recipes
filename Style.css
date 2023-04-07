@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(236, 231, 185);
+  color: rgb(11, 11, 11);
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.description{
+    font-weight:100;
+}
+
+h1 {
+    color:rgb(19, 109, 187);
+    font-weight: bold;
+}
+
+h2 {
+    color:rgb(255, 0, 0);
+    font-weight: normal;
+}
+
+img {
+    width: 500px;
+    height: auto;
+  }
